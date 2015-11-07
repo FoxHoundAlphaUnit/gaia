@@ -1,0 +1,4 @@
+/* Testing custom CSS */
+.theme-communications {
+	--highlight-color: var(--color-orange)!important;
+}

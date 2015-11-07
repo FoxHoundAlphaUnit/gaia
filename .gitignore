@@ -83,3 +83,5 @@ mozilla-b2g-gaia-node-modules-*
 
 node_modules/
 venv/
+
+profile-sms/
